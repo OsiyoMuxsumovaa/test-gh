@@ -1,6 +1,8 @@
 import React from 'react'
 import './features.css'
-import { com1, com3,com2,  } from './import.js'
+import com1 from '../../asset/_com1.png'
+import com2 from '../../asset/_com2.png'
+import com3 from '../../asset/_com3.png'
 
 const Features = () => {
   return (
