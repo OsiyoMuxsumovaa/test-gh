@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/test-gh/static/css/main.8977aeef.css",
+    "main.js": "/test-gh/static/js/main.0378ea8f.js",
+    "static/media/website-development-services-removebg-preview.png": "/test-gh/static/media/website-development-services-removebg-preview.2f3c89c927226d615f58.png",
+    "static/media/_com3.png": "/test-gh/static/media/_com3.eb53de4e58ed56c93d7e.png",
+    "static/media/reactlogo-removebg-preview.png": "/test-gh/static/media/reactlogo-removebg-preview.6f88522dee0ba7580ea4.png",
+    "static/media/_com1.png": "/test-gh/static/media/_com1.31182875205e9a3c78c6.png",
+    "static/media/_com2.png": "/test-gh/static/media/_com2.48bde00e901416663fc0.png",
+    "static/media/github.png-removebg-preview.png": "/test-gh/static/media/github.png-removebg-preview.714fc4bf3664a5024709.png",
+    "static/media/logo.png": "/test-gh/static/media/logo.55aeb7b43119be2563eb.png",
+    "static/media/about.png": "/test-gh/static/media/about.95eb6fa18fda4590bab0.png",
+    "static/media/nodejs-removebg-preview (1).png": "/test-gh/static/media/nodejs-removebg-preview (1).6a863c35a4c607b9b21c.png",
+    "static/media/figma-removebg-preview (1).png": "/test-gh/static/media/figma-removebg-preview (1).ce09c01e348f6c07f18b.png",
+    "static/media/people.png": "/test-gh/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "index.html": "/test-gh/index.html",
+    "main.8977aeef.css.map": "/test-gh/static/css/main.8977aeef.css.map",
+    "main.0378ea8f.js.map": "/test-gh/static/js/main.0378ea8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8977aeef.css",
+    "static/js/main.0378ea8f.js"
+  ]
+}
