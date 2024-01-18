@@ -1,0 +1,28 @@
+form{
+    display: block;
+    background-color: #2f0101;
+ 
+    margin: 40px auto;
+    max-width: 400px;
+    max-height: 500px;
+    padding: 25px 40px;
+    color: white;
+}
+form textarea, input{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 15px auto;
+    padding: 10px;
+    font-family: "Poppins";
+    background-color:white;
+    border: 1px solid white;
+}
+form button{
+    height: 30px;
+    width: 80px;
+    align-items: center;
+    border: none;
+    background: radial-gradient(circle at 3% 25%, rgb(138, 15, 15) 0%, rgba(0, 0, 0, 1) 100%);
+
+}

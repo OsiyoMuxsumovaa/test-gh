@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Arizonia&family=Manrope:wght@800&family=Orbitron:wght@400;500;700&display=swap');
+
+:root{
+    --font-family: 'Manrope, sans-serif';
+
+    --gradient-text: linear-gradient(89.97deg, #AE67FA 1.84%,#f49567 1.84%,);
+    --gradient-bar: linear-gradient(103.22deg, #AE67FA 1.84%, #f49567  1.84%,);
+
+    --color-bg: #050418;
+    --color-footer: #01042f;
+    --color-blog: #0442c54;
+    --color-text: #a09593;
+    --color-subtext: #ffb2a0;
+}
